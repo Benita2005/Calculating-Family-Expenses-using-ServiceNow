@@ -14,4 +14,4 @@
 
  Servicenow Instance: https://dev282689.service-now.com/now/nav/ui/classic/params/target/ui_page.do%3Fsys_id%3D5833bedfc3f03210b28bfeac05013173
 
- Demo Vedio Link: https://drive.google.com/file/d/1MJG6V7WuG3npdU_bOhkK5nX-enFt4X69/view?usp=drivesdk
+ Demo Video Link: https://drive.google.com/file/d/1MJG6V7WuG3npdU_bOhkK5nX-enFt4X69/view?usp=drivesdk
